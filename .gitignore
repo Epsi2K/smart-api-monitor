@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Logs
+*.log
+scaling_events.log
+
+
+# Environment
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# VS Code / IDE configs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.bak
+docker-compose.override.yml
+
+# Python virtualenvs
+venv/
+.env/
+ENV/

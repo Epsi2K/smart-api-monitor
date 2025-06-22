@@ -1,0 +1,1 @@
+[2025-06-22 22:43:30] ❌ Error loading traffic data: [Errno 2] No such file or directory: 'traffic_logs.csv'
