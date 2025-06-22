@@ -152,15 +152,15 @@ streamlit run dashboard.py
 
 ### 🔄 Live API Traffic
 
-![Live Traffic Graph](screenshots\Smart-API-Dashboard.png)
+![Live Traffic Graph](screenshots/Smart-API-Dashboard.png)
 
 ### 🔮 30-Min ARIMA Forecast
 
-![Forecast Graph](screenshots\ARIMA.png)
+![Forecast Graph](screenshots/ARIMA.png)
 
 ### ⚙️ Autoscaling Events Log
 
-![Scaling Events](screenshots\Scaling-Events-Log.png)
+![Scaling Events](screenshots/Scaling-Events-Log.png)
 
 ---
 
